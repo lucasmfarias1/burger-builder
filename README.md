@@ -1,3 +1,6 @@
+## Burger Builder
+This is my first React.js project. It is an experimentation and learning sandbox.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
