@@ -1,0 +1,13 @@
+.HamburgerButton {
+  padding: 5px;
+  cursor: pointer;
+  border-radius: 3px;
+  background-color: #fff;
+  color: #000;
+}
+
+@media (min-width: 500px) {
+  .HamburgerButton {
+    display: none;
+  }
+}
