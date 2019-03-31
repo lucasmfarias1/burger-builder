@@ -5,7 +5,9 @@ const hamburgerButton = (props) => (
   <div
     onClick={props.clicked}
     className={classes.HamburgerButton}>
-    |||
+    <div></div>
+    <div></div>
+    <div></div>
   </div>
 );
 
