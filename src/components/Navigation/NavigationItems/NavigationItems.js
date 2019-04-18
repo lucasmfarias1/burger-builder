@@ -9,7 +9,7 @@ const navigationItems = (props) => (
       Burger Builder
     </NavigationItem>
     
-    <NavigationItem link="/">
+    <NavigationItem link="/checkout">
       Checkout
     </NavigationItem>
   </ul>
